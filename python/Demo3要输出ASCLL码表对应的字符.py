@@ -6,4 +6,3 @@ print(8)
 print(chr(56))
 print('[')
 print(chr(91))
-#中文编码的范围是[u4e00-u9fa5]
