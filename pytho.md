@@ -1,3 +1,4 @@
+# 第一章:
 **初始IPO程序编写方法:**  
 ![IPO.png](document%2FIPO.png)  
 输入数据、处理数据、输出数据  
@@ -12,4 +13,7 @@
 ***
 **代码的缩进:**  
 ![img.png](document/代码的缩进.png)  
-*非常重要*
+*非常重要*    
+
+**本章总结**  
+![img.png](document/第一章总结.png)
