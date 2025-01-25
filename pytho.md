@@ -2,10 +2,10 @@
 ![IPO.png](document%2FIPO.png)  
 输入数据、处理数据、输出数据  
 ***
-**基本的函数输出print**
+**基本的输出函数print**
 ![基的输出函数print.png](document%2F%E5%9F%BA%E7%9A%84%E8%BE%93%E5%87%BA%E5%87%BD%E6%95%B0print.png)  
 ***  
-基本的输入函数:  
+**基本的输入函数input:** 
 ![基本的输入函数Input.png](document%2F%E5%9F%BA%E6%9C%AC%E7%9A%84%E8%BE%93%E5%85%A5%E5%87%BD%E6%95%B0Input.png)  
 ***
 **python当中的注释**  
