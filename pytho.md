@@ -1,4 +1,4 @@
-认识IPO程序编写方法 
+认识IPO程序编写方法:
 ![IPO.png](document%2FIPO.png)  
 
 输入数据、处理数据、输出数据  
