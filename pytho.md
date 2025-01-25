@@ -11,5 +11,5 @@
 ![python当中的注释.png](document%2Fpython%E5%BD%93%E4%B8%AD%E7%9A%84%E6%B3%A8%E9%87%8A.png)  
 ***
 **代码的缩进:**  
-![img.png](document/代码的缩进.png)
+![img.png](document/代码的缩进.png)  
 *非常重要*
