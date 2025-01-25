@@ -19,4 +19,4 @@
 ![img.png](document/第一章总结1.png)  
 ![img.png](document/第一章总结1.1.png)  
 **章节习题**  
-wz.my/aj52q
+https://reurl.cc/jQoxRm
