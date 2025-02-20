@@ -27,4 +27,5 @@ https://reurl.cc/jQoxRm
 **python中的标识符**  
 ![img.png](document/chat02/python中的标识符.png)  
 ![img.png](document/chat02/标识符的命名规范.png)  
-![img.png](document/chat02/标识符的命名规范01.png)
+![img.png](document/chat02/标识符的命名规范01.png)  
+
